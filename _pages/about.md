@@ -17,42 +17,77 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a third-year Ph.D. student in the combined master's and doctoral program in the School of Computer Science and Technology at Anhui University, under the supervision of Professor Yiwen Zhang. I have been invited to serve as a reviewer for WWW, KDD, and IEEE TCSS. My research interests primarily focus on click-through prediction, multimodal data mining, and generative recommender systems:
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+1. **Click-through Prediction**: Click-through rate prediction is an important task for online advertising and recommendation, which aims to estimate the probability that a user will click on a certain item. Likewise, CTR prediction models have been widely applied to predicting users’ like, favorite, purchase, or download actions. These tasks are usually formulated as a binary classification problem, which incorporates rich but heterogeneous (e.g., numerical, categorical, sequential) features extracted from user profiles, item attributes, and session contexts.
+2. **Multimodal Recommender Systems**: Multimodal recommender systems are capable of utilizing multiple types of data (such as text, images, audio, and video) for recommendation. Unlike traditional methods that rely solely on single-modal information, such as user ID, item ID, multimodal recommendation integrates product descriptions, user reviews, images, audio, and other content from different modalities to enhance both the accuracy and diversity of recommendations.
+3. **Generative Recommender Systems**: Generative recommender systems leverage auto-encoding models, auto-regressive models, and large language models to generate personalized recommendations. In contrast to traditional recommendation methods that primarily depend on user-item interaction data, generative models introduce novel paradigms for conceptualizing and delivering recommendations, enabling more flexible and creative recommendation strategies.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 One paper focusing on quadratic neural networks for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25). 
+- *2025.04*: &nbsp;🎉🎉 Winning 2nd Place in the Web Conference 2025 Multimodal CTR Prediction Challenge Track.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/QNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Revisiting Feature Interactions from the Perspective of Quadratic Neural Networks for Click-through Rate Prediction](https://arxiv.org/pdf/2505.17999) (**KDD'25, CCF A**) [[Code](https://github.com/salmon1802/QNN)]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Honghao Li**, Yiwen Zhang, Yi Zhang, Lei Sang, Jieming Zhu. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/SimCEN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SimCEN: Simple Contrast-enhanced Network for CTR Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3681203) (**MM'24, CCF A**) [[Code](https://github.com/salmon1802/SimCEN)]
+
+**Honghao Li**, Lei Sang, Yi Zhang, Yiwen Zhang. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2024</div><img src='images/CETN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3688571) (**TOIS'24, CCF A**) [[Code](https://github.com/salmon1802/CETN)]
+
+**Honghao Li**, Lei Sang, Yi Zhang, Xuyun Zhang, Yiwen Zhang
+</div>
+</div>
+
+# 📝 Other Publications 
+1. [**AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/full/10.1145/3681785).
+Lei Sang, Honghao Li, Yiwen Zhang, **Yi Zhang**, Yun Yang. ACM Transactions on Information Systems (TOIS'24, CCF A)
+
+1. [**Towards Similar Alignment and Unique Uniformity in Collaborative Filtering**](https://www.sciencedirect.com/science/article/pii/S0957417424022139).
+Lei Sang, Yu Zhang, **Yi Zhang**, Honghao Li, Yiwen Zhang. Expert Systems with Applications (ESWA'24, CCF C, JCR Q1)
+
+1. [**Dual-domain Collaborative Denoising for Social Recommendation**](https://arxiv.org/pdf/2405.04942).
+Wenjie Chen, Yi Zhang, **Honghao Li**, Lei Sang, Yiwen Zhang (TCSS'24, CCF C, JCR Q1)
+
+1. [**Large Language Model Aided QoS Prediction for Service Recommendation**](https://arxiv.org/pdf/2408.02223?).
+Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CCF B)
+
+
+1. [**FCN: Fusing Exponential and Linear Cross Network for Click-Through Rate Prediction**](https://arxiv.org/abs/2407.13349).
+**Honghao Li**, Yiwen Zhang, Yi Zhang, Hanwei Li, Lei Sang, Jieming Zhu
+
+1. [**From Collapse to Stability: A Knowledge-Driven Ensemble Framework for Scaling Up Click-Through Rate Prediction Models**](https://arxiv.org/pdf/2405.04942).
+**Honghao Li**, Lei Sang, Yi Zhang, Guangming Cui, Yiwen Zhang
+
+1. [**TF4CTR: Twin Focus Framework for CTR Prediction via Adaptive Sample Differentiation**](https://arxiv.org/pdf/2405.03167).
+**Honghao Li**, Yiwen Zhang, Yi Zhang, Lei Sang, Yun Yang
+
+1. [**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**](https://arxiv.org/pdf/2504.17699).
+**Honghao Li**, Hanwei Li, Jing Zhang, Yi Zhang, Ziniu Yu, Lei Sang, Yiwen Zhang
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+🏆Second Place Globally in the MMCTR Challenge at The Web Conference 2025 ([Multimodal CTR Prediction Challenge Track](https://erel-mir.github.io/challenge/results/), 2025)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2018.09 - 2022.06*, Undergraduate student at Bengbu University. 
+- *2022.09 - 2027.06*, Ph.D. student in the combined master's and doctoral program in the School of Computer Science and Technology at Anhui University. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- I'm looking for it.
