@@ -50,7 +50,7 @@ I am currently a first-year Ph.D. student in the School of Computer Science and 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/CETN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2025</div><img src='images/CETN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3688571) (**TOIS'24, CCF A**) [[Code](https://github.com/salmon1802/CETN)]
