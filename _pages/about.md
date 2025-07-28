@@ -88,7 +88,7 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 
 # 🎖 Honors and Awards
 
-🏆Second Place Globally in the MMCTR Challenge at The Web Conference 2025 ([Multimodal CTR Prediction Challenge Track](https://erel-mir.github.io/challenge/results/), [Technical Report](https://arxiv.org/pdf/2504.17699), 2025)
+🏆Second Place Globally in the MMCTR Challenge at The Web Conference 2025 ([Multimodal CTR Prediction Challenge Track](https://erel-mir.github.io/challenge/results/), [Technical Report](https://arxiv.org/pdf/2504.17699))
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Undergraduate student at Bengbu University. 
