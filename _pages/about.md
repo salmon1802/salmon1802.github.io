@@ -62,10 +62,10 @@ I am currently a first-year Ph.D. student in the School of Computer Science and 
 
 # 📝 Other Publications 
 1. [**AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/full/10.1145/3681785).
-Lei Sang, Honghao Li, Yiwen Zhang, **Yi Zhang**, Yun Yang. ACM Transactions on Information Systems (TOIS'24, CCF A)
+Lei Sang, **Honghao Li**, Yiwen Zhang, Yi Zhang, Yun Yang. ACM Transactions on Information Systems (TOIS'24, CCF A)
 
 1. [**Towards Similar Alignment and Unique Uniformity in Collaborative Filtering**](https://www.sciencedirect.com/science/article/pii/S0957417424022139).
-Lei Sang, Yu Zhang, **Yi Zhang**, Honghao Li, Yiwen Zhang. Expert Systems with Applications (ESWA'24, CCF C, JCR Q1)
+Lei Sang, Yu Zhang, Yi Zhang, **Honghao Li**, Yiwen Zhang. Expert Systems with Applications (ESWA'24, CCF C, JCR Q1)
 
 1. [**Dual-domain Collaborative Denoising for Social Recommendation**](https://arxiv.org/pdf/2405.04942).
 Wenjie Chen, Yi Zhang, **Honghao Li**, Lei Sang, Yiwen Zhang (TCSS'24, CCF C, JCR Q1)
