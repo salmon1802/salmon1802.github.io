@@ -39,19 +39,24 @@ I am currently a third-year Ph.D. student in the combined master's and doctoral 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/SimCEN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/SimCEN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [SimCEN: Simple Contrast-enhanced Network for CTR Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3681203) (**MM'24, CCF A**) [[Code](https://github.com/salmon1802/SimCEN)]
 
 **Honghao Li**, Lei Sang, Yi Zhang, Yiwen Zhang. 
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2024</div><img src='images/CETN.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/CETN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3688571) (**TOIS'24, CCF A**) [[Code](https://github.com/salmon1802/CETN)]
 
 **Honghao Li**, Lei Sang, Yi Zhang, Xuyun Zhang, Yiwen Zhang
+
 </div>
 </div>
 
