@@ -101,4 +101,4 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 - *2022.09 - 2027.06*, Ph.D. student in the combined master's and doctoral program in the School of Computer Science and Technology at Anhui University. 
 
 # 💻 Internships
-- I'm looking for it.
+- *2025.11 - now*, Intern at Xiaohongshu.
