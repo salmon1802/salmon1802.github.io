@@ -25,7 +25,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Winning China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025).
-- *2025.06*: &nbsp;🎉🎉 Winning 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition.
+- *2025.06*: &nbsp;🎉🎉 Winning Top 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition.
 - *2025.05*: &nbsp;🎉🎉 One paper focusing on quadratic neural networks for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25). 
 - *2025.04*: &nbsp;🎉🎉 Winning 2nd Place in the Web Conference 2025 Multimodal CTR Prediction Challenge Track.
 
