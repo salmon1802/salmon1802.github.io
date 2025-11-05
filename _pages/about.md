@@ -25,7 +25,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Winning China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025).
-- *2025.06*: &nbsp;🎉🎉 Winning 14th place in the preliminary round of the Tencent Advertising Algorithm Competition.
+- *2025.06*: &nbsp;🎉🎉 Winning 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition.
 - *2025.05*: &nbsp;🎉🎉 One paper focusing on quadratic neural networks for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25). 
 - *2025.04*: &nbsp;🎉🎉 Winning 2nd Place in the Web Conference 2025 Multimodal CTR Prediction Challenge Track.
 
@@ -92,7 +92,7 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 
 🏆Second Place Globally in the MMCTR Challenge at The Web Conference 2025 ([Multimodal CTR Prediction Challenge Track](https://erel-mir.github.io/challenge/results/), [Technical Report](https://arxiv.org/pdf/2504.17699))
 
-🏆Winning 14th place in the preliminary round of the [Tencent Advertising Algorithm Competition](https://algo.qq.com/).
+🏆Winning Top 1% (14th) place in the preliminary round of the [Tencent Advertising Algorithm Competition](https://algo.qq.com/).
 
 🏆China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025)
 
@@ -101,4 +101,4 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 - *2022.09 - 2027.06*, Ph.D. student in the combined master's and doctoral program in the School of Computer Science and Technology at Anhui University. 
 
 # 💻 Internships
-- *2025.11 - now*, Intern at Xiaohongshu.
+- *2025.11 - now*, Research intern at Xiaohongshu.
