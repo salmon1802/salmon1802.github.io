@@ -86,10 +86,6 @@ Wenjie Chen, Yi Zhang, **Honghao Li**, Lei Sang, Yiwen Zhang (TCSS'24, CCF C, JC
 1. [**Large Language Model Aided QoS Prediction for Service Recommendation**](https://arxiv.org/pdf/2408.02223?).
 Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CCF B)
 
-
-1. [**FCN: Fusing Exponential and Linear Cross Network for Click-Through Rate Prediction**](https://arxiv.org/abs/2407.13349).
-**Honghao Li**, Yiwen Zhang, Yi Zhang, Hanwei Li, Lei Sang, Jieming Zhu
-
 1. [**From Collapse to Stability: A Knowledge-Driven Ensemble Framework for Scaling Up Click-Through Rate Prediction Models**](https://arxiv.org/pdf/2405.04942).
 **Honghao Li**, Lei Sang, Yi Zhang, Guangming Cui, Yiwen Zhang
 
