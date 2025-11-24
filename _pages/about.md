@@ -32,6 +32,16 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/FCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FCN: Fusing Exponential and Linear Cross Network for Click-Through Rate Prediction](https://arxiv.org/abs/2407.13349) (**KDD'26, CCF A**) [[Code](https://github.com/salmon1802/FCN)]
+
+**Honghao Li**, Yiwen Zhang, Yi Zhang, Hanwei Li, Lei Sang, Jieming Zhu. 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/QNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
