@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 3. **Generative Recommender Systems**: Generative recommender systems leverage auto-encoding models, auto-regressive models, and large language models to generate personalized recommendations. In contrast to traditional recommendation methods that primarily depend on user-item interaction data, generative models introduce novel paradigms for conceptualizing and delivering recommendations, enabling more flexible and creative recommendation strategies.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 I am selected for the 2025 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project).
 - *2025.11*: &nbsp;🎉🎉 One paper focusing on a simple yet effective cross network for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26). 
 - *2025.09*: &nbsp;🎉🎉 Winning China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025).
 - *2025.06*: &nbsp;🎉🎉 Winning Top 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition.
@@ -96,12 +97,13 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 **Honghao Li**, Hanwei Li, Jing Zhang, Yi Zhang, Ziniu Yu, Lei Sang, Yiwen Zhang
 
 # 🎖 Honors and Awards
+🏆2025 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project)
+
+🏆China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025)
 
 🏆Second Place Globally in the MMCTR Challenge at The Web Conference 2025 ([Multimodal CTR Prediction Challenge Track](https://erel-mir.github.io/challenge/results/), [Technical Report](https://arxiv.org/pdf/2504.17699))
 
 🏆Winning Top 1% (14th) place in the preliminary round of the [Tencent Advertising Algorithm Competition](https://algo.qq.com/).
-
-🏆China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025)
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Undergraduate student at Bengbu University. 
