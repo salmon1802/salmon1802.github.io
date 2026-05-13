@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 3. **Generative Recommender Systems**: Generative recommender systems leverage auto-encoding models, auto-regressive models, and large language models to generate personalized recommendations. In contrast to traditional recommendation methods that primarily depend on user-item interaction data, generative models introduce novel paradigms for conceptualizing and delivering recommendations, enabling more flexible and creative recommendation strategies.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I have been selected for the 2026 Tencent RhinoBird Elite Talent Program, with my research topic being generative recommender systems.
 - *2025.12*: &nbsp;🎉🎉 I am selected for the 2025 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project).
 - *2025.11*: &nbsp;🎉🎉 One paper focusing on a simple yet effective cross network for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26). 
 - *2025.09*: &nbsp;🎉🎉 Winning China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025).
@@ -74,6 +75,16 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2026</div><img src='images/TF4CTR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TF4CTR: Twin Focus Framework for CTR Prediction via Adaptive Sample Differentiation](https://arxiv.org/pdf/2405.03167) (**TCSS'26, CCF C**) [[Code](https://github.com/salmon1802/TF4CTR)]
+
+**Honghao Li**, Qiuze Ru, Yiwen Zhang, Yi Zhang, Lei Sang, Yun Yang
+
+</div>
+</div>
+
 # 📝 Other Publications 
 1. [**AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/full/10.1145/3681785).
 Lei Sang, **Honghao Li**, Yiwen Zhang, Yi Zhang, Yun Yang. ACM Transactions on Information Systems (TOIS'24, CCF A)
@@ -89,9 +100,6 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 
 1. [**From Collapse to Stability: A Knowledge-Driven Ensemble Framework for Scaling Up Click-Through Rate Prediction Models**](https://arxiv.org/pdf/2405.04942).
 **Honghao Li**, Lei Sang, Yi Zhang, Guangming Cui, Yiwen Zhang
-
-1. [**TF4CTR: Twin Focus Framework for CTR Prediction via Adaptive Sample Differentiation**](https://arxiv.org/pdf/2405.03167).
-**Honghao Li**, Yiwen Zhang, Yi Zhang, Lei Sang, Yun Yang
 
 1. [**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**](https://arxiv.org/pdf/2504.17699).
 **Honghao Li**, Hanwei Li, Jing Zhang, Yi Zhang, Ziniu Yu, Lei Sang, Yiwen Zhang
