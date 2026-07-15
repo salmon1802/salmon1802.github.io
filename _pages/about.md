@@ -78,7 +78,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2026</div><img src='images/TF4CTR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TF4CTR: Twin Focus Framework for CTR Prediction via Adaptive Sample Differentiation](https://arxiv.org/pdf/2405.03167) (**TCSS'26, CCF C**) [[Code](https://github.com/salmon1802/TF4CTR)]
+[TF4CTR: Twin Focus Framework for CTR Prediction via Adaptive Sample Differentiation](https://arxiv.org/pdf/2405.03167) (**TCSS'26, CCF C, JCR Q1**) [[Code](https://github.com/salmon1802/TF4CTR)]
 
 **Honghao Li**, Qiuze Ru, Yiwen Zhang, Yi Zhang, Lei Sang, Yun Yang
 
@@ -86,6 +86,12 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 </div>
 
 # 📝 Other Publications 
+1. **TriSAGE: A Tri-subspace Semantic Admission Framework for Multimodal CTR Prediction**.
+Ziyun Chen, Yuhan Wang, Qing Xie, Mengzi Tang, Huping Yu, **Honghao Li**, Bolong Zheng. (ACM MM'26, CCF A)
+
+1. **Do We Really Need LLMs to Augment All? A Selective Augmentation Framework with Lightweight Language Models for Multimodal CTR Prediction**.
+Ziyun	Chen, Yuhan	Wang, **Honghao Li**, Mengzi Tang, Qing	Xie, Yongjian	Liu. (RecSys'26, CCF B)
+
 1. [**AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/full/10.1145/3681785).
 Lei Sang, **Honghao Li**, Yiwen Zhang, Yi Zhang, Yun Yang. ACM Transactions on Information Systems (TOIS'24, CCF A)
 
@@ -111,7 +117,10 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 
 🏆Second Place Globally in the MMCTR Challenge at The Web Conference 2025 ([Multimodal CTR Prediction Challenge Track](https://erel-mir.github.io/challenge/results/), [Technical Report](https://arxiv.org/pdf/2504.17699))
 
-🏆Winning Top 1% (14th) place in the preliminary round of the [Tencent Advertising Algorithm Competition](https://algo.qq.com/).
+🏆Winning Top 1% (14th) place in the preliminary round of the [Tencent Advertising Algorithm Competition 2025](https://algo.qq.com/).
+
+🏆Winning Top 1% (4th) place in the preliminary round of the [Tencent Advertising Algorithm Competition 2026](https://algo.qq.com/).
+
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Undergraduate student at Bengbu University. 
@@ -119,3 +128,4 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 
 # 💻 Internships
 - *2025.11 - 2026.02*, Research intern at Xiaohongshu.
+- *2026.07 - now*, Research intern at Tencent WXG.
