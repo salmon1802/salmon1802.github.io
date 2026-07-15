@@ -24,11 +24,12 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 3. **Generative Recommender Systems**: Generative recommender systems leverage auto-encoding models, auto-regressive models, and large language models to generate personalized recommendations. In contrast to traditional recommendation methods that primarily depend on user-item interaction data, generative models introduce novel paradigms for conceptualizing and delivering recommendations, enabling more flexible and creative recommendation strategies.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Winning Top 1% (4th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2026.
 - *2026.05*: &nbsp;🎉🎉 I have been selected for the 2026 Tencent RhinoBird Elite Talent Program, with my research topic being generative recommender systems.
 - *2025.12*: &nbsp;🎉🎉 I am selected for the 2025 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project).
 - *2025.11*: &nbsp;🎉🎉 One paper focusing on a simple yet effective cross network for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26). 
 - *2025.09*: &nbsp;🎉🎉 Winning China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2025).
-- *2025.06*: &nbsp;🎉🎉 Winning Top 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition.
+- *2025.09*: &nbsp;🎉🎉 Winning Top 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper focusing on quadratic neural networks for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25). 
 - *2025.04*: &nbsp;🎉🎉 Winning 2nd Place in the Web Conference 2025 Multimodal CTR Prediction Challenge Track.
 
