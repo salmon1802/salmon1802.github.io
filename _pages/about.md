@@ -86,15 +86,23 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2024</div><img src='images/AdaGIN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction](https://dl.acm.org/doi/full/10.1145/3681785) (**TOIS'24, CCF A**) [[Code](https://github.com/salmon1802/AdaGIN)]
+
+Lei Sang, **Honghao Li**, Yiwen Zhang, Yi Zhang, Yun Yang (Supervisor as First Author)
+
+</div>
+</div>
+
+
 # 📝 Other Publications 
 1. **TriSAGE: A Tri-subspace Semantic Admission Framework for Multimodal CTR Prediction**.
 Ziyun Chen, Yuhan Wang, Qing Xie, Mengzi Tang, Huping Yu, **Honghao Li**, Bolong Zheng. (ACM MM'26, CCF A)
 
 1. **Do We Really Need LLMs to Augment All? A Selective Augmentation Framework with Lightweight Language Models for Multimodal CTR Prediction**.
 Ziyun	Chen, Yuhan	Wang, **Honghao Li**, Mengzi Tang, Qing	Xie, Yongjian	Liu. (RecSys'26, CCF B)
-
-1. [**AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/full/10.1145/3681785).
-Lei Sang, **Honghao Li**, Yiwen Zhang, Yi Zhang, Yun Yang. ACM Transactions on Information Systems (TOIS'24, CCF A)
 
 1. [**Towards Similar Alignment and Unique Uniformity in Collaborative Filtering**](https://www.sciencedirect.com/science/article/pii/S0957417424022139).
 Lei Sang, Yu Zhang, Yi Zhang, **Honghao Li**, Yiwen Zhang. Expert Systems with Applications (ESWA'24, CCF C, JCR Q1)
