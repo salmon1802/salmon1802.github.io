@@ -35,6 +35,16 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://raw.githubusercontent.com/salmon1802/UniRank/main/assets/figures/unirank_logo.png' alt="UniRank logo" width="100%" style="object-fit: contain; background: #fff; padding: 8px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction](https://arxiv.org/pdf/2607.19987) (**arXiv 2026**) [[Code](https://github.com/salmon1802/UniRank)] <a href="https://github.com/salmon1802/UniRank/stargazers" target="_blank" rel="external nofollow noopener"><img src="https://img.shields.io/github/stars/salmon1802/UniRank?style=social" alt="GitHub Stars"></a>
+
+**Honghao Li**, Xianquan Wang, Zibin Zhang, Yi Zhang, Kangyi Lin, Yiwen Zhang.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/FCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
