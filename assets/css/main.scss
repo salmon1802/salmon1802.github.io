@@ -107,3 +107,34 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.github-stars {
+    display: inline-flex;
+    overflow: hidden;
+    margin-left: .2em;
+    border: 1px solid #d0d7de;
+    border-radius: .3em;
+    color: #24292f !important;
+    font-size: .75em;
+    font-weight: 600;
+    line-height: 1.55;
+    text-decoration: none !important;
+    vertical-align: .1em;
+
+    &:hover {
+        border-color: #8c959f;
+    }
+}
+
+.github-stars__label {
+    padding: 0 .45em;
+    background: #f6f8fa;
+}
+
+.github-stars__count {
+    min-width: 2.25em;
+    padding: 0 .45em;
+    border-left: 1px solid #d0d7de;
+    background: #fff;
+    text-align: center;
+}
