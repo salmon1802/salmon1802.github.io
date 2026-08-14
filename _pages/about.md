@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 3. **Generative Recommender Systems**: Generative recommender systems leverage auto-encoding models, auto-regressive models, and large language models to generate personalized recommendations. In contrast to traditional recommendation methods that primarily depend on user-item interaction data, generative models introduce novel paradigms for conceptualizing and delivering recommendations, enabling more flexible and creative recommendation strategies.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One paper on a unified Mixture-of-Experts and Transformer architecture for multi-domain recommendation is accepted by the ACM International Conference on Information and Knowledge Management (CIKM'26).
 - *2026.06*: &nbsp;🎉🎉 Winning Top 1% (4th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2026.
 - *2026.05*: &nbsp;🎉🎉 I have been selected for the 2026 Tencent RhinoBird Elite Talent Program, with my research topic being generative recommender systems.
 - *2025.12*: &nbsp;🎉🎉 I am selected for the 2025 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project).
@@ -34,6 +35,16 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 - *2025.04*: &nbsp;🎉🎉 Winning 2nd Place in the Web Conference 2025 Multimodal CTR Prediction Challenge Track.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026</div><img src='https://github.com/user-attachments/assets/264cf227-bc9a-41b1-b916-e544403d8af2' alt="MoEFormer architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MoEFormer: A Unified Mixture-of-Experts and Transformer Architecture for Multi-Domain Recommendation](https://github.com/salmon1802/MoEFormer) (**CIKM'26, CCF B**) [[Code](https://github.com/salmon1802/MoEFormer)] <a href="https://github.com/salmon1802/MoEFormer/stargazers" target="_blank" rel="external nofollow noopener"><img src="https://img.shields.io/github/stars/salmon1802/MoEFormer?style=social" alt="GitHub Stars"></a>
+
+**Honghao Li**, Zihan Lin, Jiapeng Xu, Yiwen Zhang, Rui Zhong, et al.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://raw.githubusercontent.com/salmon1802/UniRank/main/assets/figures/unirank_logo.png' alt="UniRank logo" width="100%" style="object-fit: contain; background: #fff; padding: 8px;"></div></div>
 <div class='paper-box-text' markdown="1">
