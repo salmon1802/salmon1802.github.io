@@ -119,10 +119,10 @@ Lei Sang, **Honghao Li**, Yiwen Zhang, Yi Zhang, Yun Yang (Supervisor as First A
 
 
 # 📝 Other Publications 
-1. **TriSAGE: A Tri-subspace Semantic Admission Framework for Multimodal CTR Prediction**.
+1. [**TriSAGE: A Tri-subspace Semantic Admission Framework for Multimodal CTR Prediction**](https://dl.acm.org/doi/10.1145/3767308.3835908).
 Ziyun Chen, Yuhan Wang, Qing Xie, Mengzi Tang, Huping Yu, **Honghao Li**, Bolong Zheng. (ACM MM'26, CCF A)
 
-1. **Do We Really Need LLMs to Augment All? A Selective Augmentation Framework with Lightweight Language Models for Multimodal CTR Prediction**.
+1. [**Do We Really Need LLMs to Augment All? A Selective Augmentation Framework with Lightweight Language Models for Multimodal CTR Prediction**](https://dl.acm.org/doi/10.1145/3773078.3831810).
 Ziyun	Chen, Yuhan	Wang, **Honghao Li**, Mengzi Tang, Qing	Xie, Yongjian	Liu. (RecSys'26, CCF B)
 
 1. [**Towards Similar Alignment and Unique Uniformity in Collaborative Filtering**](https://www.sciencedirect.com/science/article/pii/S0957417424022139).
