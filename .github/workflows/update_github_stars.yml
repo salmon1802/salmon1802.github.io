@@ -1,0 +1,64 @@
+name: Update GitHub Stars
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update_github_stars.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-stars-snapshot
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Fetch stars and publish the public snapshot
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const trackedRepository = { owner: 'salmon1802', repo: 'UniRank' };
+            const { data: repository } = await github.rest.repos.get(trackedRepository);
+            if (!Number.isInteger(repository.stargazers_count) || repository.stargazers_count < 0) {
+              throw new Error('GitHub returned an invalid star count');
+            }
+            const snapshot = {
+              updated_at: new Date().toISOString(),
+              repositories: {
+                'salmon1802/UniRank': { stars: repository.stargazers_count }
+              }
+            };
+            const target = { owner: context.repo.owner, repo: context.repo.repo };
+            const branch = 'github-stars-stats';
+            const path = 'github-stars.json';
+            try {
+              await github.rest.git.getRef({ ...target, ref: `heads/${branch}` });
+            } catch (error) {
+              if (error.status !== 404) throw error;
+              const { data: main } = await github.rest.git.getRef({ ...target, ref: 'heads/main' });
+              await github.rest.git.createRef({ ...target, ref: `refs/heads/${branch}`, sha: main.object.sha });
+            }
+            let sha;
+            try {
+              const { data: existing } = await github.rest.repos.getContent({ ...target, path, ref: branch });
+              sha = existing.sha;
+            } catch (error) {
+              if (error.status !== 404) throw error;
+            }
+            await github.rest.repos.createOrUpdateFileContents({
+              ...target,
+              branch,
+              path,
+              sha,
+              message: 'Update GitHub star snapshot',
+              content: Buffer.from(JSON.stringify(snapshot, null, 2) + '\n').toString('base64')
+            });
+            core.info(`Published UniRank stars: ${repository.stargazers_count}`);

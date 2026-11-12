@@ -40,7 +40,8 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2027</div><img src='https://raw.githubusercontent.com/salmon1802/UniRank/main/assets/figures/unirank_logo.png' alt="UniRank logo" width="100%" style="object-fit: contain; background: #fff; padding: 8px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction](https://arxiv.org/pdf/2607.19987) (**KDD'27, CCF A**) [[Code](https://github.com/salmon1802/UniRank)] <a class="github-stars" href="https://github.com/salmon1802/UniRank/stargazers" data-github-stars="salmon1802/UniRank" target="_blank" rel="external nofollow noopener" aria-label="UniRank has 115 GitHub stars"><span class="github-stars__label">★ Star</span><span class="github-stars__count">115</span></a>
+{% assign unirank_stats = site.data.github_stars.repositories['salmon1802/UniRank'] %}
+[UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction](https://arxiv.org/pdf/2607.19987) (**KDD'27, CCF A**) [[Code](https://github.com/salmon1802/UniRank)] <a class="github-stars" href="https://github.com/salmon1802/UniRank/stargazers" data-github-stars="salmon1802/UniRank" target="_blank" rel="external nofollow noopener" aria-label="UniRank has {{ unirank_stats.stars }} GitHub stars" title="Star count updated {{ site.data.github_stars.updated_at }} (UTC); refreshed hourly"><span class="github-stars__label">★ Star</span><span class="github-stars__count">{{ unirank_stats.stars }}</span></a>
 
 **Honghao Li**, Xianquan Wang, Zibin Zhang, Yi Zhang, Kangyi Lin, Yiwen Zhang.
 
@@ -161,23 +162,12 @@ Huiying Liu, Zekun Zhang, **Honghao Li**, Qilin Wu, and Yiwen Zhang (ICWS'25, CC
 - *2025.11 - 2026.02*, Research intern at Xiaohongshu.
 - *2026.07 - now*, Research intern at Tencent WXG.
 
-<script>
-document.querySelectorAll('[data-github-stars]').forEach(function (link) {
-  var count = link.querySelector('.github-stars__count');
-  fetch('https://api.github.com/repos/' + link.dataset.githubStars, {
-    headers: { Accept: 'application/vnd.github+json' }
-  })
-    .then(function (response) {
-      if (!response.ok) throw new Error('GitHub API request failed');
-      return response.json();
-    })
-    .then(function (repository) {
-      if (typeof repository.stargazers_count !== 'number') return;
-      count.textContent = repository.stargazers_count.toLocaleString('en-US');
-      link.setAttribute('aria-label', link.dataset.githubStars + ' has ' + repository.stargazers_count + ' GitHub stars');
-    })
-    .catch(function () {
-      // Keep the build-time fallback count visible when the API is unavailable.
-    });
-});
-</script>
+<div class="site-stats" aria-label="Website visitor statistics">
+  <span id="busuanzi_container_site_uv" style="display: none;">Visitors (UV): <span id="busuanzi_value_site_uv"></span></span>
+  <span id="busuanzi_container_site_pv" style="display: none;">Page views (PV): <span id="busuanzi_value_site_pv"></span></span>
+  <span id="visitor-stats-status" role="status">Loading visitor statistics…</span>
+  <small>Statistics by <a href="https://busuanzi.ibruce.info/" rel="external noopener">Busuanzi</a> · Enabled November 12, 2026. Historical traffic before integration is not included.</small>
+</div>
+
+<script defer src="{{ '/assets/js/github-stars.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/visitor-stats.js' | relative_url }}"></script>
