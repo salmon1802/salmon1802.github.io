@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 3. **Generative Recommender Systems**: Generative recommender systems leverage auto-encoding models, auto-regressive models, and large language models to generate personalized recommendations. In contrast to traditional recommendation methods that primarily depend on user-item interaction data, generative models introduce novel paradigms for conceptualizing and delivering recommendations, enabling more flexible and creative recommendation strategies.
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 [UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction](https://arxiv.org/pdf/2607.19987) is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'27).
 - *2026.08*: &nbsp;🎉🎉 One paper on a unified Mixture-of-Experts and Transformer architecture for multi-domain recommendation is accepted by the ACM International Conference on Information and Knowledge Management (CIKM'26).
 - *2026.06*: &nbsp;🎉🎉 Winning Top 1% (4th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2026.
 - *2026.05*: &nbsp;🎉🎉 I have been selected for the 2026 Tencent RhinoBird Elite Talent Program, with my research topic being generative recommender systems.
@@ -36,22 +37,22 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2027</div><img src='https://raw.githubusercontent.com/salmon1802/UniRank/main/assets/figures/unirank_logo.png' alt="UniRank logo" width="100%" style="object-fit: contain; background: #fff; padding: 8px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction](https://arxiv.org/pdf/2607.19987) (**KDD'27, CCF A**) [[Code](https://github.com/salmon1802/UniRank)] <a class="github-stars" href="https://github.com/salmon1802/UniRank/stargazers" data-github-stars="salmon1802/UniRank" target="_blank" rel="external nofollow noopener" aria-label="UniRank has 115 GitHub stars"><span class="github-stars__label">★ Star</span><span class="github-stars__count">115</span></a>
+
+**Honghao Li**, Xianquan Wang, Zibin Zhang, Yi Zhang, Kangyi Lin, Yiwen Zhang.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026</div><img src='https://github.com/user-attachments/assets/264cf227-bc9a-41b1-b916-e544403d8af2' alt="MoEFormer architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MoEFormer: A Unified Mixture-of-Experts and Transformer Architecture for Multi-Domain Recommendation](https://github.com/salmon1802/MoEFormer) (**CIKM'26, CCF B**) [[Code](https://github.com/salmon1802/MoEFormer)]
 
 **Honghao Li**, Zihan Lin, Jiapeng Xu, Yiwen Zhang, Rui Zhong, et al.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://raw.githubusercontent.com/salmon1802/UniRank/main/assets/figures/unirank_logo.png' alt="UniRank logo" width="100%" style="object-fit: contain; background: #fff; padding: 8px;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction](https://arxiv.org/pdf/2607.19987) (**arXiv 2026**) [[Code](https://github.com/salmon1802/UniRank)] <a class="github-stars" href="https://github.com/salmon1802/UniRank/stargazers" data-github-stars="salmon1802/UniRank" target="_blank" rel="external nofollow noopener" aria-label="UniRank has 115 GitHub stars"><span class="github-stars__label">★ Star</span><span class="github-stars__count">115</span></a>
-
-**Honghao Li**, Xianquan Wang, Zibin Zhang, Yi Zhang, Kangyi Lin, Yiwen Zhang.
 
 </div>
 </div>
